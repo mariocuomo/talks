@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://github.com/mariocuomo/talks/blob/main/images/database%20relazionali.png">
+</p>
+
 ## TALKS
 All the resources of my talks are collected here
 
