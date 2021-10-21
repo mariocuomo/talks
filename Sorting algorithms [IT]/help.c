@@ -152,14 +152,16 @@ int selectionSort(int sequenza[], int n){
 }
 
 int mergeSort(int sequenza[], int start, int end){
+	int i=0:
 	if(start<end){
 		int center = (start+end)/2;
 		mergeSort(sequenza,start,center);
 		mergeSort(sequenza,center+1,end);
 		merge(sequenza,start,center,end);
+		i+=2;
 	}
 
-	return 0;
+	return i;
 }
 
 void merge(int sequenza[], int start, int center, int end){
