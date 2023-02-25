@@ -8,4 +8,5 @@ All the resources of my talks are collected here
 - [PageRank & HITS [IT]](https://github.com/mariocuomo/talks/tree/main/PageRank%20%26%20HITS%20%5BIT%5D)
 - [Teleportation Protocol [EN]](https://github.com/mariocuomo/talks/tree/main/Teleportation%20Protocol%20%5BEN%5D)
 - [Big Data in cybersec [EN]](https://github.com/mariocuomo/talks/tree/main/Big%20Data%20in%20cybersec)
+- [Ethernet MAC learning [EN]] 
 - ...
