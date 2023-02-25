@@ -7,6 +7,6 @@ All the resources of my talks are collected here
 - [Search path & Dijkstra [IT]](https://github.com/mariocuomo/talks/tree/main/Search%20path%20%26%20Dijkstra%20%5BIT%5D)
 - [PageRank & HITS [IT]](https://github.com/mariocuomo/talks/tree/main/PageRank%20%26%20HITS%20%5BIT%5D)
 - [Teleportation Protocol [EN]](https://github.com/mariocuomo/talks/tree/main/Teleportation%20Protocol%20%5BEN%5D)
-- [Big Data in cybersec [EN]] (https://github.com/mariocuomo/talks/tree/main/Big%20Data%20in%20cybersec%20%5BEN%5D)
-- [Ethernet MAC learning [EN]] 
+- [Big Data in cybersec [EN]](https://github.com/mariocuomo/talks/tree/main/Big%20Data%20in%20cybersec%20%5BEN%5D)
+- [Ethernet MAC learning [EN]](https://github.com/mariocuomo/talks/tree/main/Ethernet%20MAC%20learning%20%5BEN%5D)
 - ...
