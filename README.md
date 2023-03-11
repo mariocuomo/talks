@@ -9,4 +9,5 @@ All the resources of my talks are collected here
 - [Teleportation Protocol [EN]](https://github.com/mariocuomo/talks/tree/main/Teleportation%20Protocol%20%5BEN%5D)
 - [Big Data in cybersec [EN]](https://github.com/mariocuomo/talks/tree/main/Big%20Data%20in%20cybersec%20%5BEN%5D)
 - [Ethernet MAC learning [EN]](https://github.com/mariocuomo/talks/tree/main/Ethernet%20MAC%20learning%20%5BEN%5D)
+- [Defender for Cloud Overview MAC learning [EN]](https://github.com/mariocuomo/talks/tree/main/Defender%20for%20Cloud%20Overview%20%5BEN%5D)
 - ...
