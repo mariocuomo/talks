@@ -10,4 +10,5 @@ All the resources of my talks are collected here
 - [Big Data in cybersec [EN]](https://github.com/mariocuomo/talks/tree/main/Big%20Data%20in%20cybersec%20%5BEN%5D)
 - [Ethernet MAC learning [EN]](https://github.com/mariocuomo/talks/tree/main/Ethernet%20MAC%20learning%20%5BEN%5D)
 - [Defender for Cloud Overview [EN]](https://github.com/mariocuomo/talks/tree/main/Defender%20for%20Cloud%20Overview%20%5BEN%5D)
+- [Master Thesis [EN]](https://github.com/mariocuomo/talks/tree/main/Master%20thesis%20%5BEN%5D)
 - ...
