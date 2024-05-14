@@ -13,4 +13,5 @@ Talk resource collection
 - [Master Thesis [EN]](https://github.com/mariocuomo/talks/tree/main/Master%20thesis%20%5BEN%5D)
 - [Defender for Cloud Apps as SaaS security service [EN]](https://github.com/mariocuomo/talks/tree/main/Defender%20for%20Cloud%20Apps%20%5BEN%5D)
 - [Detect compliance and security issues [EN]](https://github.com/mariocuomo/talks/tree/main/Azure%20Day%20-%20Detect%20compliance%20and%20security%20issues%20%5BEN%5D)
+- [Enhance your SOC team capabilities with Microsoft Security Copilot [EN]](https://github.com/mariocuomo/talks/tree/main/Enhance%20your%20SOC%20team%20capabilities%20with%20Microsoft%20Security%20Copilot%20%5BEN%5D)
 - ...
